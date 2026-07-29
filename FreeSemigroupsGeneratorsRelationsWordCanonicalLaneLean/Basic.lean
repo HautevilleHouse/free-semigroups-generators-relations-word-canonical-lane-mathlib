@@ -1,0 +1,2 @@
+import FreeSemigroupsGeneratorsRelationsWordCanonicalLaneLean.GateLemmas
+import FreeSemigroupsGeneratorsRelationsWordCanonicalLaneLean.FinalTheorem
